@@ -1,0 +1,78 @@
+{
+  "name": "Srce4200",
+  "tagline": "Game & software developer. Replace this line with your own intro.",
+  "projects": [
+    {
+      "name": "Project Delta",
+      "description": "Multiplayer military sandbox FPS inspired by Arma 3. Includes 3D editor, COOP support and much more.",
+      "languages": ["C#", "Unity", "3D Modeling"],
+
+      "start": 2023,
+      "end": 2026,
+
+      "images": ["Images/ProjectDelta/1.png","Images/ProjectDelta/2.png","Images/ProjectDelta/3.png","Images/ProjectDelta/4.png",
+    "Images/ProjectDelta/5.png"],
+      "github": "https://github.com/srce4200/Project-DELTA",
+      "youtube": "https://youtu.be/-HI2IM92aoo?si=K5Txz_7WQY1p3TSY",
+      "itch": "https://srce420.itch.io/projectdelta"
+    },
+    {
+      "name": "Project Charlie",
+      "description": "First zombie FPS game with simple graphics.",
+      "start": 2023,
+      "end": 2022,
+      "languages": ["C#", "Unity", "3D Modeling"],
+      "images": ["Images/ProjectCharlie/1.png"],
+      "itch": "https://srce420.itch.io/project-charlie"
+    },
+    {
+      "name": "New Earth",
+      "description": "First zombie FPS game with simple graphics.",
+      "start": 2025,
+      "end": 2026,
+      "languages": ["C#", "Unity", "3D Modeling"],
+      "images": ["Images/NewEarth/1.png","Images/NewEarth/2.png","Images/NewEarth/3.png"],
+      "github": "https://github.com/srce4200/NewEarth",
+      "youtube": "https://youtu.be/LfF3ttSB9G4",
+      "itch": "https://srce420.itch.io/new-earth"
+    },
+    {
+      "name": "Gunship Commander",
+      "description": "Simulating c21 control.",
+      "start": 2024,
+      "end": 2025,
+      "languages": ["C#", "Unity", "3D Modeling"],
+      "images": ["Images/GunshipCommander/1.png","Images/GunshipCommander/2.png"],
+      "github": "https://github.com/srce4200/Gunship-Commander",
+      "youtube": "https://youtu.be/hmUFjCKAxOc"
+    },
+    {
+      "name": "Romeon in Julija",
+      "description": "2D platformer for school project.",
+      "start": 2023,
+      "end": 2023,
+      "languages": ["C#", "Unity"],
+      "images": ["Images/RomeonInJulija/1.png","Images/RomeonInJulija/2.png"],
+      "github": "https://github.com/srce4200/2D-Platformer-RomeonAndJuliet",
+      "itch": "https://srce420.itch.io/romeoinjulija"
+    },
+    {
+      "name": "Ironflow",
+      "description": "3D \"parody\" of mindustry. Multiplayer included.",
+      "start": 2025,
+      "end": 2025,
+      "languages": ["C#", "Unity"],
+      "images": ["Images/IronFlow/1.png","Images/IronFlow/2.png"],
+      "youtube":"https://youtu.be/-HI2IM92aoo?si=K5Txz_7WQY1p3TSY"
+    },
+    {
+      "name": "Project Echo",
+      "description": "Mobile PVP FPS shooter, similar to CSGO. Tested with friends.",
+      "start": 2023,
+      "end": 2024,
+      "languages": ["C#", "Unity"],
+      "images": ["Images/ProjectEcho/1.png","Images/ProjectEcho/2.png","Images/ProjectEcho/3.png"],
+      "github":"https://github.com/srce4200/Project-Echo"
+    }
+  ]
+}
